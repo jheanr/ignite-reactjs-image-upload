@@ -8,9 +8,9 @@ This Ignite challenge by [Rocketseat](https://rocketseat.com.br), was to develop
 </p>
 
 <p>
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=ff57b2&labelColor=0A1033">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFA500&labelColor=0A1033">
 
- <img src="https://img.shields.io/static/v1?label=Ignite&message=Rocketseat&color=ff57b2&labelColor=0A1033" alt="Ignite Rocketseat" />
+ <img src="https://img.shields.io/static/v1?label=Ignite&message=Rocketseat&color=FFA500&labelColor=0A1033" alt="Ignite Rocketseat" />
 </p>
 
 ![cover](.github/cover.png?style=flat)
@@ -31,7 +31,7 @@ This Ignite challenge by [Rocketseat](https://rocketseat.com.br), was to develop
 Clone the project and access the folder.
 
 ```shell
-$ git clone https://github.com/jheanr/ignite-chapter3-challenge.git && cd ignite-chapter3-challenge
+$ git clone https://github.com/jheanr/ignite-reactjs-image-upload.git && cd ignite-reactjs-image-upload
 ```
 
 Before running the project, you must have created your [Fauna](https://fauna.com) project and get your `API_KEY` and [ImgBB account](https://imgbb.com) to get your `API_KEY` to set the environments variables on `.env.example`, rename it after the changes to `.env.local`.
